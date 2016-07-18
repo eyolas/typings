@@ -1,0 +1,20 @@
+{
+  "name": "typings",
+  "version": "1.0.0",
+  "description": "typings for typescript",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyolas/typings.git"
+  },
+  "author": "David Touzet <dtouzet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyolas/typings/issues"
+  },
+  "homepage": "https://github.com/eyolas/typings#readme",
+  "devDependencies": {
+    "typescript": "^2.0.0"
+  }
+}
